@@ -9,6 +9,16 @@ logs
 *.log
 npm-debug.log*
 
-# OS-specific
+# System files
 .DS_Store
 Thumbs.db
+
+# VSCode
+.vscode/
+
+# Postman temp files
+*.postman_environment.json
+*.postman_globals.json
+
+# OS-specific
+*.swp
